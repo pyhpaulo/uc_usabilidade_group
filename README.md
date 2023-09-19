@@ -24,8 +24,8 @@ Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pe
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
+- [ ] **Cadastrar Usuário**
+- [ ] **Fazer Login**
 - [ ] Matricular em Curso
 - [ ] Cancelar Matricula
 - [ ] Visualizar Notas
@@ -44,12 +44,14 @@ Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pe
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
+<ul>
+	<li>Paulo Henrique Domingos - RA 322116354</li>
+	<li>Gabriel Jardim Campos - RA 322128451</li>
+	<li>Henrique Machado Coelho- RA 322115990</li>
+	<li>Rafael Reis Silva Franco - RA 322118954</li>
+	<li>Geisiane Silva Jeronimo - RA 322131254</li>
+</ul>
 
-Paulo Henrique Domingos - RA 322116354
-Gabriel Jardim Campos - RA 322128451
-Henrique Machado Coelho- RA 322115990
-Rafael Reis Silva Franco - RA 322118954
-Geisiane Silva Jeronimo - RA 322131254
 
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 
