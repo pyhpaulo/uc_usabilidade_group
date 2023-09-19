@@ -1,7 +1,6 @@
 # Título do Projeto
 
-
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto]([https://picsum.photos/850/280](https://github.com/pyhpaulo/uc_usabilidade_group/assets/87779561/5474ac83-b9ac-453f-af0e-752d9779d981))
 
 # Sobre o Projeto
 
