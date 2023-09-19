@@ -1,6 +1,6 @@
 # Título do Projeto
 
-![cover](https://github.com/pyhpaulo/uc_usabilidade_group/assets/87779561/947c9593-2fd6-475d-b74b-06267c3cbc79)
+![cover](https://github.com/pyhpaulo/uc_usabilidade_group/assets/87779561/f24d57b7-2123-429d-958e-ad14b11936ff)
 
 # Sobre o Projeto
 
