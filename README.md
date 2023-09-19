@@ -45,8 +45,13 @@ Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pe
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
-Paulo Henrique Gonçalves Domingos - RA 322116354
+
+Paulo Henrique Domingos - RA 322116354
 Gabriel Jardim Campos - RA 322128451
+Henrique Machado Coelho- RA 322115990
+Rafael Reis Silva Franco - RA 322118954
+Geisiane Silva Jeronimo - RA 322131254
+
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 
 # Licença
