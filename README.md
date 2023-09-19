@@ -5,7 +5,7 @@
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pelo professor Diego Augusto, em parceria a CDL
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
