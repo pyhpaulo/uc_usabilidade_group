@@ -46,6 +46,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 Paulo Henrique Gonçalves Domingos - RA 322116354
+Gabriel Jardim Campos - RA 322128451
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 
 # Licença
