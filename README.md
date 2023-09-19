@@ -45,7 +45,7 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
-
+Paulo Henrique Gonçalves Domingos - RA 322116354
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 
 # Licença
