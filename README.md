@@ -16,6 +16,7 @@ Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pe
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
+* [Historias de usuario](#historia-de-usuario)
 * [Personas](#personas)
 * [Mapa de empatia](#mapa-de-empatia)
 * [Cenarios](#cenarios)
