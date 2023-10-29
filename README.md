@@ -43,7 +43,7 @@ Arquivo personas disponíveis em [persona.md](persona.md)
 Arquivo disponível em [CENARIOS.md](CENARIOS.md)
 
 ## Fluxo de usuário
-
+Link para visualização do fluxograma [FLUXODEUSUARIO.md](FLUXODEUSUARIO.md)
 ## Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
