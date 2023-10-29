@@ -40,6 +40,7 @@ Arquivo personas disponíveis em [persona.md](persona.md)
 ## Mapa de empatia
 
 ## Cenarios
+Arquivo disponível em [CENARIOS.md](CENARIOS.md)
 
 ## Fluxo de usuário
 
