@@ -35,7 +35,7 @@ Arquivo com os requisitos funcionais [REQUISITOSFUNCIONAIS.md](REQUISITOSFUNCION
 ## Historia de usuário
 
 ## Personas
-
+Arquivo personas disponíveis em [persona.md](persona.md)
 ## Mapa de empatia
 
 ## Cenarios
