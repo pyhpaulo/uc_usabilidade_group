@@ -29,13 +29,8 @@ Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pe
 
 
 # Requisitos Funcionais 
+[REQUISITOSFUNCIONAIS.md](REQUISITOSFUNCIONAIS.md)
 
-- [ ] **Cadastrar Usuário**
-- [ ] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
 
 # Tecnologias Usadas
 
