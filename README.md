@@ -51,7 +51,7 @@ Arquivo disponível em [CENARIOS.md](CENARIOS.md)
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Miro] (miro.com)
+- [Miro](miro.com)
 
 # Contribuição
 
