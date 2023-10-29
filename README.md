@@ -28,7 +28,7 @@ Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pe
 * [Agradecimentos](#agradecimentos)
 
 
-# Requisitos Funcionais
+## Requisitos Funcionais
 
 Arquivo com os requisitos funcionais [REQUISITOSFUNCIONAIS.md](REQUISITOSFUNCIONAIS.md)
 
