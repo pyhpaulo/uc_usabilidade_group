@@ -32,17 +32,17 @@ Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pe
 
 Arquivo com os requisitos funcionais [REQUISITOSFUNCIONAIS.md](REQUISITOSFUNCIONAIS.md)
 
-# Historia de usuário
+## Historia de usuário
 
-# Personas
+## Personas
 
-# Mapa de empatia
+## Mapa de empatia
 
-# Cenarios
+## Cenarios
 
-# Fluxo de usuário
+## Fluxo de usuário
 
-# Tecnologias Usadas
+## Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
 - [Node.js](https://nodejs.org/en/)
