@@ -65,7 +65,9 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 	<li>Gabriel Jardim Campos - RA 322128451</li>
 	<li>Henrique Machado Coelho- RA 322115990</li>
 	<li>Rafael Reis Silva Franco - RA 322118954</li>
+	<li>Pedro Henrique Nunes Álvares - RA 322120095</li>
 	<li>Geisiane Silva Jeronimo - RA 322131254</li>
+	<li>Mariana Vilela Alves Pereira - RA322128138</li>
 </ul>
 
 
