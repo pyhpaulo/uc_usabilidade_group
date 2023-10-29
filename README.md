@@ -1,4 +1,4 @@
-# Título do Projeto
+# Projeto Front-End/UX CDL BH
 
 ![cover](https://github.com/pyhpaulo/uc_usabilidade_group/assets/87779561/fdec4e56-cb1e-4ae3-91ef-8bfb57aa3715)
 
@@ -38,12 +38,14 @@ Arquivo história de usuarios disponível em [historiasdeusuario.md](historiasde
 Arquivo personas disponíveis em [persona.md](persona.md)
 
 ## Mapa de empatia
+Disponível em [EMPATIA.md](EMPATIA.md)
 
 ## Cenarios
 Arquivo disponível em [CENARIOS.md](CENARIOS.md)
 
 ## Fluxo de usuário
 Link para visualização do fluxograma [FLUXODEUSUARIO.md](FLUXODEUSUARIO.md)
+
 ## Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
