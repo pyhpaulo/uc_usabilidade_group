@@ -32,6 +32,15 @@ Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pe
 
 Arquivo com os requisitos funcionais [REQUISITOSFUNCIONAIS.md](REQUISITOSFUNCIONAIS.md)
 
+# Historia de usuário
+
+# Personas
+
+# Mapa de empatia
+
+# Cenarios
+
+# Fluxo de usuário
 
 # Tecnologias Usadas
 
