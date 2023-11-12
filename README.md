@@ -48,7 +48,7 @@ Arquivo disponível em [CENARIOS.md](CENARIOS.md)
 Link para visualização do fluxograma [FLUXODEUSUARIO.md](FLUXODEUSUARIO.md)
 
 ## Protótipos
-Link para visualição dos protótipos LO-FI e HI-FI desenvolvidos [prototipos.md] (prototipos.md)
+Link para visualição dos protótipos LO-FI e HI-FI desenvolvidos [PROTOTIPOS.md](PROTOTIPOS.md)
 
 ## Tecnologias Usadas
 
