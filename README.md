@@ -21,6 +21,7 @@ Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pe
 * [Mapa de empatia](#mapa-de-empatia)
 * [Cenarios](#cenarios)
 * [Fluxo de usuário](#fluxo-de-usuario)
+* [Protótipos](#prototipos)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
@@ -45,6 +46,9 @@ Arquivo disponível em [CENARIOS.md](CENARIOS.md)
 
 ## Fluxo de usuário
 Link para visualização do fluxograma [FLUXODEUSUARIO.md](FLUXODEUSUARIO.md)
+
+## Protótipos
+Link para visualição dos protótipos LO-FI e HI-FI desenvolvidos [PROTOTIPOS] (PROTOTIPOS.md)
 
 ## Tecnologias Usadas
 
