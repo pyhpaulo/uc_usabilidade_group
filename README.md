@@ -50,6 +50,9 @@ Link para visualização do fluxograma [FLUXODEUSUARIO.md](FLUXODEUSUARIO.md)
 ## Protótipos
 Link para visualição dos protótipos LO-FI e HI-FI desenvolvidos [PROTOTIPOS.md](PROTOTIPOS.md)
 
+## Heurística
+Relatório final e individual da analise Heurística do projeto CDL BH [HEURISTICA.md](HEURISTICA.md)
+
 ## Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
