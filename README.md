@@ -22,6 +22,8 @@ Trabalho da UC - Usabilidade, desenvolvimento web, mobile e jogos, instruído pe
 * [Cenarios](#cenarios)
 * [Fluxo de usuário](#fluxo-de-usuario)
 * [Protótipos](#prototipos)
+* [Heuristica](#heuristica)
+* [Apresentação final](#apresentacao)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
 * [Autores](#autores)
