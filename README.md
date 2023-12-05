@@ -53,6 +53,9 @@ Link para visualição dos protótipos LO-FI e HI-FI desenvolvidos [PROTOTIPOS.m
 ## Heurística
 Relatório final e individual da analise Heurística do projeto CDL BH [HEURISTICA.md](HEURISTICA.md)
 
+## Apresentação
+Apresentação final contendo todas as alterações e demostrativos dos fluxos CDL Associado , Jovem e Administrador [APRESENTACAO.md](APRESENTACAO.md)
+
 ## Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
@@ -61,9 +64,6 @@ Relatório final e individual da analise Heurística do projeto CDL BH [HEURISTI
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Miro](miro.com)
-
-## Apresentação
-Apresentação final contendo todas as alterações e demostrativos dos fluxos CDL Associado , Jovem e Administrador [APRESENTACAO.md](APRESENTACAO.md)
 
 # Contribuição
 
